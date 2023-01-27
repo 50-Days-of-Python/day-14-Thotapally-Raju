@@ -8,7 +8,7 @@ def flat_list(l):
 
     for i in l:
 
-    sdl.extend(i)
+     sdl.extend(i)
 
 
     # Insert Code Above
